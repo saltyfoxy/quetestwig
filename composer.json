@@ -1,0 +1,13 @@
+{
+    "name": "quetes/twig",
+    "description": "QUETES TWIG",
+    "authors": [
+        {
+            "name": "saltyfoxy",
+            "email": "nerdgbx@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "~1.0"
+    }
+}
